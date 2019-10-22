@@ -9,7 +9,7 @@ class SearchBar extends React.Component {
     */
   }
 
-  state = { term: "Hi there !" };
+  state = { term: '' };
 
   onInputChange(event) {
     console.log(event.target.value);
