@@ -1,13 +1,13 @@
 import React from "react";
 
 class SearchBar extends React.Component {
+  /*
   constructor(){
     super();
-    /*
     //one of the approach to solve "this" problem
     this.onFormSubmit = this.onFormSubmit.bind(this);
-    */
   }
+   */
 
   state = { term: '' };
 
