@@ -13,5 +13,5 @@ export const fetchPosts = () => {
 
 export const fetchPosts = () => async dispatch => {
         const res = await jsonPlaceHolder.get('./posts');
-        dispatch ({type: 'FETCH_POSTS',payLoad: res});
+        dispatch ({type: 'FETCH_POSTS',payload: res.data});
     }    
