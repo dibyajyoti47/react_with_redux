@@ -2,11 +2,8 @@
 
 # dependencies
 /node_modules
-/jsx_demo/node_modules
-/Streams/client/node_modules
 /.pnp
 .pnp.js
-pics/package-lock.json
 
 # testing
 /coverage
@@ -24,4 +21,3 @@ pics/package-lock.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-package-lock.json
