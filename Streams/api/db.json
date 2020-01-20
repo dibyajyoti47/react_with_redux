@@ -1,3 +1,28 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "title1",
+      "description": "desc1",
+      "userId": "1149748792389967692411",
+      "id": 1
+    },
+    {
+      "title": "title2",
+      "description": "desc2",
+      "userId": "114974879238996769241",
+      "id": 2
+    },
+    {
+      "title": "title3",
+      "description": "desc3",
+      "userId": "1149748792389967692411",
+      "id": 3
+    },
+    {
+      "title": "title4",
+      "description": "desc4",
+      "userId": "114974879238996769241",
+      "id": 4
+    }
+  ]
 }
