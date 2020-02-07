@@ -5,6 +5,7 @@
 /jsx_demo/node_modules
 /Streams/client/node_modules
 /Streams/api/node_modules
+/Streams/rtmpserver/node_modules
 /.pnp
 .pnp.js
 pics/package-lock.json
